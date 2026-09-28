@@ -1,5 +1,8 @@
 # Nexora — Personal Finance Dashboard
 
+[🌐 Live Demo](https://abdulazim-deshmukh.github.io/nexora-finance-dashboard/)  
+[💻 GitHub Repository](https://github.com/Abdulazim-deshmukh/nexora-finance-dashboard)
+
 Nexora is a responsive personal finance dashboard built with HTML, CSS, and JavaScript.
 
 It allows users to manage their income and expenses, track their budget, analyze spending, and store transaction data directly in the browser.
