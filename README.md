@@ -30,6 +30,21 @@ It allows users to manage their income and expenses, track their budget, analyze
 - Browser localStorage
 - CSV / Blob API
 
+## Screenshots
+
+### Dashboard
+![Nexora Dashboard](screenshots/dashboard.png)
+
+### Analytics
+![Nexora Analytics](screenshots/analytics.png)
+
+### Transactions
+![Nexora Transactions](screenshots/transactions.png)
+
+### Add Transaction
+![Add Transaction](screenshots/add-transaction.png)
+
+
 ## Project Structure
 
 ```text
